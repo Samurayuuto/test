@@ -1,5 +1,5 @@
-$ cd github
-$ cd 1.Basic
+$ cd ディレクトリ名
 $ git add ファイル名
+$ git remote add origin https://github.com/~
 $ git commit -m "add new file"
 $ git push origin master
