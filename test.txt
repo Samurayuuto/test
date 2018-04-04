@@ -1,3 +1,4 @@
+$ cd github
 $ cd 1.Basic
 $ git add ファイル名
 $ git commit -m "add new file"
